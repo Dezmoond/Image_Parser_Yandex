@@ -10,16 +10,26 @@ Python 3.12.4 или выше
 Anaconda:
 
 https://github.com/Dezmoond/Image_Parser_Yandex.git
+
 cd Image_Parser_Yandex
+
 conda env create -f environment.yml
+
 conda activate parser
+
 python Parserwindow.py
+
 
 Установка без использования Anaconda:
 
 https://github.com/Dezmoond/Image_Parser_Yandex.git
+
 cd Image_Parser_Yandex
+
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
+
 python Parserwindow.py
