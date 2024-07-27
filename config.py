@@ -1,4 +1,4 @@
-IMAGE_PATH = "F:/тест"
+IMAGE_PATH = "C:/Images"
 MAX_COUNT =5
 DESIRED_SIZE = 640
 TARGET_FOLDER = ""
